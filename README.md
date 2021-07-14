@@ -9,4 +9,4 @@ Application should work with Django Admin
 - starting time: 1:30 pm
 - Finish time: 5:30 pm
 ## Links:
-PR Link :[django](https://github.com/NiveenAlSmadi/django-custom-user/pull/1)
+PR Link :[django](https://github.com/NiveenAlSmadi/django-custom-user/pull/2)
